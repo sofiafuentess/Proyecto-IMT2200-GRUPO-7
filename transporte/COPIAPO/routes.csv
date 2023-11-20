@@ -1,0 +1,11 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+262239,14925,1,Letrero 1,,3,,ded4d4,000000
+364470,14925,2,Letrero 2,,3,,f00202,FFFFFF
+364471,14925,4,Letrero 4,,3,,0cd0eb,000000
+364472,14925,5,Letrero 5,,3,,e37b1b,000000
+364473,14925,6,Letrero 6,,3,,098023,FFFFFF
+364474,14925,8,Letrero 8,,3,,088523,FFFFFF
+364475,14925,9,Letrero 9,,3,,f7d20c,000000
+364476,14925,12,Letrero 12,,3,,ded4d4,000000
+365624,14925,7,Letrero 7,,3,,ded4d4,000000
+365625,14925,10,Letrero 10,,3,,ded4d4,000000
