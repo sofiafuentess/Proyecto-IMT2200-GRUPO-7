@@ -2,3 +2,5 @@ __pycache__/
 data/
 cleaning/
 .venv/
+.DS_Store
+analisis_data/.ipynb_checkpoints/
