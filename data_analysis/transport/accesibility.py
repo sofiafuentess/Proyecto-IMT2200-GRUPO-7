@@ -46,10 +46,15 @@ def calculate_accessibility_score(city):
     accessibility = (stop_counts + route_counts) / 2
 
     # Create a DataFrame with the accessibility scores
-    accessibility_df = pd.DataFrame({'Stop ID': accessibility.index, 'Accessibility Score': accessibility.values})
+    accessibility_df = pd.DataFrame({'stop_id': accessibility.index, 'score': accessibility.values})
 
-    # Save the DataFrame as a CSV file
-    accessibility_df.to_csv(f'{city}_accessibility_scores.csv', index=False)
+def main():
+    calculate_accessibility_score('Copiapó')
+    calculate_accessibility_score('Santiago')
+    print('Accessibility scores saved as CSV files')
+
+if __name__ == "__main__":
+    main()
 
 def main():
     calculate_accessibility_score('Copiapó')

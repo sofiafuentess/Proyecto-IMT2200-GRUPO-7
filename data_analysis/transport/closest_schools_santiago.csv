@@ -1,4 +1,4 @@
-stop_id,stop_name,school_RBD,school_name,distance
+stop_id,stop_name,RBD,school_name,distance
 PB241,PB241-Parada / Mall Plaza Norte - Los Libertadores,12775,INSTITUTO  DOMINGO  EYZAGUIRRE,0.5589411501742019
 PB184,PB184-Los Libertadores / Esq. Av. A. Vespucio,25482,ESC. PART. ARTISTICA EL TRIGAL,0.4697924600973466
 PB185,PB185-Parada / Pasarela Albany,31252,COLEGIO ROCKET ADULTOS DE LA FLORIDA,0.3362663032489197

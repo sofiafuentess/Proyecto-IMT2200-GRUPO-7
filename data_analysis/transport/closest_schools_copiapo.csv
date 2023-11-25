@@ -1,4 +1,4 @@
-stop_id,stop_name,school_RBD,school_name,distance
+stop_id,stop_name,RBD,school_name,distance
 6262304,Terminal / Juan Oldonovan,419,ESCUELA HERNÁN MÁRQUEZ HUERTA,0.3597900592758853
 6698372,Los Carrera / Rafael Torreblanca,427,ESCUELA LUIS CRUZ MARTÍNEZ,0.2709322334692277
 6698373,Juan O'donovan / Candelaria Goyenechea,420,LICEO FERNANDO ARIZTÍA RUIZ,0.3648404897822827
