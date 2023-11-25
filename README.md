@@ -10,3 +10,10 @@ Los miembros de este grupo son:
 - José Luis Cubillos
 - Benjamín Ubilla
 - Ignacio Palma
+
+## Jupyter Notebook Entregable
+El análisis principal se encuentra en el Jupyter Notebook entrega_final hubicado en data_analisis, dentro de este se referencian las distintas partes del analisis;
+-  data_analysis/EDA_info_por_estudiante.ipynb
+- data_analysis/EDA_info_colegios.ipynb
+- data_analysis/transport/transport.ipynb
+- El analisis transporte y accesibilidad se encuentra en la carpeta transport
